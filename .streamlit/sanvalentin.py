@@ -46,7 +46,7 @@ st.write("""Como estoy aprendiendo a programar te queria hacer este regalo, para
 st.write("""Feliz primer 14 de febrero juntos, eres la unica persona con la que me encantaria compartir este dia la veces que sean posibles, te quiero hoy y siempre pequeña, disfrutemos el dia tanto como el resto
          \n No soy muy creyente del destino, pero le agradezco que me permitiera conocer y tener a alguien tan unica como lo eres tu, eres una gran persona, cosa que me hace sentir orgulloso de que tu seas mi pareja""")
 
-st.image(r".streamlit/nuestra_foto.jpg", caption="Un pequeño recuerdo nuestro ❤️", use_container_width=True)
+st.image(r".streamlit/nuestra_foto.jpg", caption="Un pequeño recuerdo nuestro 💚", use_container_width=True)
 
 st.write("---")
 
@@ -65,6 +65,7 @@ if respuesta != "Elige una opción...":
         st.balloons() 
 
         st.success("Feliz 14 de febrero mi San Valentin, y espero que pronto el año, gracias por ser tu, princesa.")
+
 
 
 
