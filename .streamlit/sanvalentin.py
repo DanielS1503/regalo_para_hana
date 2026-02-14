@@ -39,11 +39,11 @@ st.markdown(
 st.title("Feliz dia del amor y la amistad mi pulguita 💚")
 st.write("---")
 
-st.write("### Queria hacerte un detalle especial por este dia, y creo que se me ocurrio la idea perfecta")
+st.write("### Este es un detalle para ti Hanna, uno que podras tener guardado para siempre")
 st.write("""Como estoy aprendiendo a programar te queria hacer este regalo, para que sepas que te tengo presente en todo de alguna u otra forma. 
 """)
 
-st.write("""Feliz primer 14 juntos, estoy seguro que seran muchos más pequeña, ademas de que pronto cumplimos 11 meses juntos, 11 meses que han sido tan especiales como el primero, o tal vez un poco más.
+st.write("""Feliz primer 14 de febrero juntos, espero podamos disfrutar juntos de este dia siempre, vamos a pasarla muy bien hoy, y tomarnos un tiempo especial para disfrutar un poco mas de nuestra compañia, aunque eso lo hacemos siempre.
          No soy muy creyente del destino, pero le agradezco que me permitiera conocer y tener a alguien tan unica como lo eres tu, eres una gran persona, cosa que me hace sentir orgulloso de que tu seas mi pareja""")
 
 st.image(r".streamlit/nuestra_foto.jpg", caption="Un pequeño recuerdo nuestro ❤️", use_container_width=True)
@@ -65,6 +65,7 @@ if respuesta != "Elige una opción...":
         st.balloons() 
 
         st.success("Feliz 14 de febrero mi San Valentin, y espero que pronto el año, gracias por ser tu, princesa.")
+
 
 
 
