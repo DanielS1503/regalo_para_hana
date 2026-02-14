@@ -64,4 +64,5 @@ if respuesta != "Elige una opción...":
             time.sleep(2)
         st.balloons() 
 
-        st.success("Feliz 14 de febrero mi San Valentin, y espero que pronto el año, gracias por tu princesa")
+        st.success("Feliz 14 de febrero mi San Valentin, y espero que pronto el año, gracias por ser tu princesa")
+
